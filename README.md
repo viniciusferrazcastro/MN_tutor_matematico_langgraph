@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Este projeto utiliza a API da OpenAI para receber perguntas matemáticas, validá-las e retornar uma resposta gerada por IA. Ele é estruturado como um fluxo de estado utilizando a biblioteca `langchain`.
+Este projeto utiliza a API da OpenAI para receber perguntas matemáticas, validá-las e retornar uma resposta gerada por IA. Ele é estruturado como um workflow utilizando a biblioteca `langgraph`.
 
 ## Requisitos
 
